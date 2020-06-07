@@ -1,0 +1,25 @@
+/*
+ Theme Name:   KTRider1
+ Theme URI:    http://example.com/Rider1/
+ Description:  KTRider1 Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     twentyfourteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyfourteen-child
+*/
+
+*{
+	/*font-size: 3em;*/
+}
+
+
+
+
+.div_booth_videopost_needs label {
+	margin: 0;
+}
+

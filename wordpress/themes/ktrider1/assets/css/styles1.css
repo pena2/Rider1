@@ -1,0 +1,16 @@
+
+
+.div_screen {
+    /*width: 420px;*/
+    /*height: 420px;*/
+    background-color: #fc0;
+}
+
+.div_screen video {
+    width: 210px;
+    height: 210px;
+}
+
+.div_step {
+    margin: auto auto 21px auto;
+}
